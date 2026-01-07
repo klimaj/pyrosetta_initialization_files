@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18157982.svg)](https://doi.org/10.5281/zenodo.18157982)
+
 # The PyRosetta initialization file format for precise reconstruction of Pose objects: Appendix material
 
 Code and runtime environment for the appendix materials in the preprint publication:
