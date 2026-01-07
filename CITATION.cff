@@ -1,0 +1,16 @@
+authors:
+  - family-names: Klima
+    given-names: Jason C.
+cff-version: 1.2.0
+date-released: "2026-01-06"
+doi: 10.5281/zenodo.18157982
+license: MIT
+references:
+  - type: article
+    authors:
+      - family-names: Klima
+        given-names: Jason C.
+    title: "The PyRosetta initialization file format for precise reconstruction of Pose objects"
+    doi: 10.5281/zenodo.18113110
+    date-released: "2026-01-06"
+title: "The PyRosetta initialization file format for precise reconstruction of Pose objects: Appendix material"
